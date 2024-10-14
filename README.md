@@ -5,18 +5,23 @@
 
 1. [Repo Description](#repo-description)
 2. [Investigations](#investigations)
+3. [Study Writeups](#study-writeups)
 
 
 [![](./gfx/x.jpeg)](https://youtu.be/rxziz-IcBKQ?feature=shared)
 
 # Repo Description 
 
-This repo containt investigations of interest.
+> This repo is an index of various investigative work
 
 # Investigations
-
-> List of investigations carried out in seperate repos linked here 
 
 | Ref   | Repo                                             | Description                                                                                                                                                                                                                                    |
 | ----- | ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `I01` | [xo-i-euvs](https://github.com/xyizko/xo-i-euvs) | Investigating execution times between [`UV`](https://docs.astral.sh/uv/) and pip via the installation and usage of [`slither`](https://github.com/crytic/slither). Initially done for this [`PR`](https://github.com/crytic/slither/pull/2573) |
+
+# Study Writeups 
+
+| Ref    | Repo | Description                       |
+| ------ | ---- | --------------------------------- |
+| `SW01` | this | Stratocyberlab Challange Writeups |
