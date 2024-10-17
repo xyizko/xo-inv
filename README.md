@@ -22,7 +22,6 @@
 
 ```math
 \textcolor{red}{\Huge {WARNING}}\\
-\rule{10cm}{1pt}\\
 \textcolor{FF3EA5}{\huge Experimental \ Information }
 ```
 
