@@ -12,11 +12,20 @@
 1. [Repo Description](#repo-description)
 2. [Investigations](#investigations)
 3. [Studies](#studies)
+4. [CTFS](#ctfs)
 
 
 [![](./gfx/x.jpeg)](https://youtu.be/rxziz-IcBKQ?feature=shared)
 
 # Repo Description 
+
+
+```math
+\colorbox{black}{\textcolor{red}{\Huge {WARNING}}}\\\rule{10cm}{1pt}\\\colorbox{black}{\textcolor{FF3EA5}{\huge Experimental Information }}
+\\ 
+
+```
+
 
 > This repo is an index of various investigative work
 
@@ -28,6 +37,14 @@
 
 # Studies
 
-| Ref   | Repo | Description                       |
-| ----- | ---- | --------------------------------- |
-| `S01` | this | Stratocyberlab Challange Writeups |
+| Ref   | Repo                                                                   | Description                                                  |
+| ----- | ---------------------------------------------------------------------- | ------------------------------------------------------------ |
+| `S01` | [`xo-h-stratocyberlab`](https://github.com/xyizko/xo-h-stratocyberlab) | Stratocyberlab Challange Writeups                            |
+| `S02` | [`xo-ucy`](https://github.com/xyizko/xo-ucy)                           | [Cyfrin Updraft](https://www.cyfrin.io/updraft) related work |
+
+
+# CTFS
+
+| Ref   | Repo                                         | Decsription |
+| ----- | -------------------------------------------- | ----------- |
+| `C01` | [`xo-htb`](https://github.com/xyizko/xo-htb) | HTB Stuff   |
