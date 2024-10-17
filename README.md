@@ -26,7 +26,7 @@
 ```
 
 $$ 
-\mathrm{}\textcolor{white}{\colorbox{green}{\textbf{TV, https://}}}
+\mathrm{}\textcolor{white}{\textbf{TV, https://}}
 $$
 
 > This repo is an index of various investigative work
