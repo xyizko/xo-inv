@@ -19,15 +19,7 @@
 
 # Repo Description 
 
-
-```math
-\textcolor{red}{\Huge {WARNING}}\\
-```
-```math
-\textcolor{FF3EA5}{\huge Experimental \ Information }
-```
-
-
+![](./gfx/WARNING.svg)
 
 > This repo is an index of various investigative work
 
