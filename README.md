@@ -20,10 +20,9 @@
 # Repo Description 
 
 
-$$
-\colorbox{black}{\textcolor{red}{\Huge {WARNING}}}\\\rule{10cm}{1pt}\\\colorbox{black}{\textcolor{FF3EA5}{\huge Experimental Information }}
-$$
-
+```math
+\textcolor{red}{\Huge {WARNING}}\\\rule{10cm}{1pt}\\\textcolor{FF3EA5}{\huge Experimental \ Information }
+```
 
 > This repo is an index of various investigative work
 
