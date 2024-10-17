@@ -25,9 +25,7 @@
 \textcolor{FF3EA5}{\huge Experimental \ Information }
 ```
 
-$$ 
-\mathrm{}\textcolor{white}{\textbf{TV, https://}}
-$$
+
 
 > This repo is an index of various investigative work
 
