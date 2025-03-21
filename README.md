@@ -38,6 +38,7 @@
 | ----- | ---------------------------------------------------------------------- | ------------------------------------------------------------ |
 | `S01` | [`xo-h-stratocyberlab`](https://github.com/xyizko/xo-h-stratocyberlab) | Stratocyberlab Challange Writeups                            |
 | `S02` | [`xo-ucy`](https://github.com/xyizko/xo-ucy)                           | [Cyfrin Updraft](https://www.cyfrin.io/updraft) related work |
+| `S03` | [`xo-rust`](https://github.com/xyizko/xo-rust)                           | 🦀 Rust Learning Related |
 
 
 # CTFS
