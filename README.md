@@ -35,9 +35,10 @@
 | :-: | :--: | :---------: |
 `S01` | [`xo-h-stratocyberlab`](https://github.com/xyizko/xo-h-stratocyberlab) | Stratocyberlab Challange Writeups |
 | `S02` | [`xo-ucy`](https://github.com/xyizko/xo-ucy) | [Cyfrin Updraft](https://www.cyfrin.io/updraft) related work |
-| `S03` | [`HuggingFace AI`](https://github.com/xyizko/xo-ml-HFAC) | 🤖 HuggingFace AI |
-| `S04` | [`xo-rust`](https://github.com/xyizko/xo-rust) | 🦀 Rust Learning Related |
-| `S05` | [`xo-gaic`](https://github.com/xyizko/xo-gaic) | 🤖 5 Day Intensive Generative Google AI Course |
+| `S03` | [`HuggingFace SmolAgents`](https://github.com/xyizko/xo-ml-HFAC) | 🤖 HuggingFace SmolAgents |
+| `S04` | [`HuggingFace MCP`](https://github.com/xyizko/xo-ml-HFMCP) | 🤖 HuggingFace MCP |
+| `S05` | [`xo-rust`](https://github.com/xyizko/xo-rust) | 🦀 Rust Learning Related |
+| `S06` | [`xo-gaic`](https://github.com/xyizko/xo-gaic) | 🤖 5 Day Intensive Generative Google AI Course |
 
 
 # ✒️ BBR - Bug Bounty Reports 
