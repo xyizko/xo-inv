@@ -39,6 +39,8 @@
 | `S04` | [`HuggingFace MCP`](https://github.com/xyizko/xo-ml-HFMCP) | 🤖 HuggingFace MCP |
 | `S05` | [`xo-rust`](https://github.com/xyizko/xo-rust) | 🦀 Rust Learning Related |
 | `S06` | [`xo-gaic`](https://github.com/xyizko/xo-gaic) | 🤖 5 Day Intensive Generative Google AI Course |
+| `S07` | [`xo-mathz`](https://github.com/xyizko/xo-mathz) | 🧮 Mathematial Concepts |
+| `S08` | [`xo-certz-LinuxFoundation`](xo-certz-LinuxFoundation) | 🐧 Linux Foundation Certs |
 
 
 # ✒️ BBR - Bug Bounty Reports 
